@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sabuhi Safarov](mailto:sabuhi.safarov@owasp.org)
+* [Aghadadash Guliyev](mailto:dadash.guliyev@owasp.org)
+* [Azar Alili](mailto:azar.alili@owasp.org)
