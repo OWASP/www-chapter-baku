@@ -44,7 +44,7 @@ OWASP is a non-profit organization to improve apllication security. All of our p
 <h3 id="baku-information">Baku Information</h3>
 <ul>
   <li><a href="https://www.owasp.org/index.php/Membership">Become a Member</a></li>
-  <li><a href="https://groups.google.com/a/owasp.org/forum/#!forum/baku-chapter">Join Our Mailing List</a></li>
+  <li><a href="https://groups.google.com/all-groups">Join Our Mailing List</a></li>
   <li><a href="https://owasp.org/donate">Local Chapter Support</a></li>
   <li><a href="https://owasp.org/www-policy/legal/speaker-agreement">Speaker Agreement</a></li>
   <li><a href="https://owasp.org/www-policy/operational/conferences-events.html">Code of Conduct</a></li>
@@ -54,5 +54,6 @@ OWASP is a non-profit organization to improve apllication security. All of our p
 <ul>
   <li><a href="https://twitter.com/OWASPBAKU">Twitter</a></li>
   <li><a href="https://www.linkedin.com/company/owasp-baku">Linkedin</a></li>
+  <li><a href="https://www.eventbrite.com/e/owasp-baku-meetup-tickets-495022534727"> Meetup</a></li>
   <li><a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q">YouTube</a></li>
 </ul>
