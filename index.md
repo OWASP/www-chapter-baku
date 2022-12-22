@@ -12,6 +12,12 @@ meetup-group:
 
 Welcome to the OWASP Baku chapter homepage. The chapter board is <a href="azar.alili@owasp.org"> Azar Alili </a> , <a href="https://www.linkedin.com/in/sabuhi-safarov-5958a5a2/)"> Sabuhi Safarov </a> and <a href="https://www.linkedin.com/in/sakhavat-suleymanli-cybersecurity-itaudit-information-security-s%C9%99xav%C9%99t-s%C3%BCleymanl%C4%B1/)"> Sakhavat Suleymanli </a>. Follow chapter news on <a href="fb.com"> Facebook </a> | <a href="twitter.com"> Twitter </a> | <a href="meetup.com"> Meetup.com  </a>| <a href="eventbrite.com"> EventBrite </a> | <a href="linkedin.com"> LinkedIN . </a> Watch recordings of past talks on our <a href="youtu.be"> YouTube Channel </a>
 
+
+## Welcome
+Hello Baku. The Open Web Application Security Project (OWASP) is a non-profit organization working to improve software security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region- Baku.
+<img src="assets/images/testBaku.jpg" alt="Girl in a jacket" width="auto" height="600">
+  
+  
 ## Chapter Supporters
 The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
 <img src="testBaku.jpg" alt="Girl in a jacket" width="auto" height="600">
@@ -102,9 +108,6 @@ The following are the list of OWASP Corporate Members who have generously aligne
   
 </div>
 
-## Welcome
-Hello Baku. The Open Web Application Security Project (OWASP) is a non-profit organization working to improve software security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region- Baku.
-<img src="assets/images/testBaku.jpg" alt="Girl in a jacket" width="auto" height="600">
 ## Speakers & Supporters
 All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application and software security.
 Please contact <a href="azar.alili@owasp.org"> Azar Alili </a> if you would like to present at one of our chapter meetings, or if you have some virtual resources to donate (e.g., CTF ranges, online training, etc.).
