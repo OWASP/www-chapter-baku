@@ -22,15 +22,13 @@ OWASP is a non-profit organization to improve apllication security. All of our p
 
 <h4>Call For Speakers</h4>
 
-<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Baku Chapter events - please review and agree with the <a href="https://owasp.org/www-policy/legal/speaker-agreement"> OWASP Speaker Agreement </a> and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:</p>
-
-<p><code class="language-plaintext highlighter-rouge">owaspbaku (at) owasp.org</code></p>
+<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Baku Chapter events - please review and agree with the <a href="https://owasp.org/www-policy/legal/speaker-agreement"> OWASP Speaker Agreement </a> and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via <a href="mailto:azar.alili@owasp.org"> e-mail </a> :</p>
 
 <h2 id="next-meetingevents">Next Meeting/Event(s)</h2>
 
 <p>OWASP Baku Chapter meetings are posted on our MeetUp Page:</p>
 
-<p>Please visit <a href="https://www.meetup.com/OWASP-Baku">http://www.meetup.com/OWASP-Baku</a> OWASP Baku MeetUp site for Baku Chapter event information.</p>
+<p>Please visit <a href="https://www.eventbrite.com/e/owasp-baku-meetup-tickets-495022534727">http://www.meetup.com/OWASP-Baku</a> OWASP Baku MeetUp site for Baku Chapter event information.</p>
 
 
 <h2 id="video-recordings-of-past-events">Video Recordings of Past Events</h2>
