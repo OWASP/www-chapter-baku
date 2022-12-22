@@ -39,7 +39,7 @@ OWASP is a non-profit organization to improve apllication security. All of our p
 <p>Please <a href="https://www.youtube.com/OWASPBaku?sub_confirmation=1">SUBSCRIBE</a> to our YouTube channel to get notified when new videos get published.</p>
 
 <h2 id="updates-on-social-media-and-mailing-list">Updates on Social Media and Mailing List</h2>
-<p>Please follow OWASP Baku Chapter on <a href="https://twitter.com/OWASPBaku">Twiter</a>/<a href="https://facebook.com/OWASPBaku">Facebook</a>/<a href="https://meetup.com/OWASP-Baku">MeetUp</a>/<a href="https://owaspbaku.eventbrite.com">EventBrite</a>/<a href="https://www.linkedin.com/company/owaspbaku">LinkedIN</a> and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/baku-chapter/join">sign up to our mailing list</a> to be notified about the upcoming OWASP Baku Chapter events.</p>
+<p>Please follow OWASP Baku Chapter on our social accounts </p>
 
 <h3 id="baku-information">Baku Information</h3>
 <ul>
