@@ -122,7 +122,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 
 <h2 id="video-recordings-of-past-events">Video Recordings of Past Events</h2>
-<p>You can watch the recordings of talks presented at OWASP Baku events on our YouTube channel: https://www.youtube.com/OWASPBaku</p>
+<p>You can watch the recordings of talks presented at OWASP Baku events on our YouTube channel: <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q"> OWASPBaku </a> </p>
 
 <p>Please <a href="https://www.youtube.com/OWASPBaku?sub_confirmation=1">SUBSCRIBE</a> to our YouTube channel to get notified when new videos get published.</p>
 
