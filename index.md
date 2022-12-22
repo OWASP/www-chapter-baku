@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+<div style='color:black;'>
 <img src="assets/images/azar alili sakhavat suleymanli.png" alt="Girl in a jacket" width="auto" height="auto">
   
 Welcome to OWASP-Baku Chapter. The chapter board are <a href="azar.alili@owasp.org"> Azar Alili </a> , <a href="sabuhi.safarov@owasp.org"> Sabuhi Safarov </a>, <a href="sekhavet.suleymanli@gmail.com"> Sakhavat Suleymanli </a> and <a href="dadash.guliyev@owasp.org"> Dadash Guliyev </a>. 
