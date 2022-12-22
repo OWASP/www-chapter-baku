@@ -20,7 +20,7 @@ The Open Web Application Security Project (OWASP) is a non-profit organization w
   
 ## Chapter Supporters
 The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
-<table cellpadding="15" cellspacing="0">
+<!-- <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
 
@@ -101,7 +101,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
     </td>
 
 </tr>
-</table>
+</table> --!>
   
   
 </div>
