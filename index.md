@@ -10,7 +10,7 @@ meetup-group:
 
 <div style='color:red;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Welcome to the OWASP Baku chapter homepage. The chapter board is <a href="azar.alili@owasp.org"> Azar Alili </a> , <a href="https://www.linkedin.com/in/sabuhi-safarov-5958a5a2/)"> Sabuhi Safarov </a> and <a href="https://www.linkedin.com/in/sakhavat-suleymanli-cybersecurity-itaudit-information-security-s%C9%99xav%C9%99t-s%C3%BCleymanl%C4%B1/)"> Sakhavat Suleymanli </a>. Follow chapter news on <a href="youtu.be"> Facebook </a> | <a href="youtu.be"> Twitter </a> | <a href="youtu.be"> Meetup.com  </a>| <a href="youtu.be"> EventBrite </a> | <a href="youtu.be"> LinkedIN | </a> Watch recordings of past talks on our <a href="youtu.be"> YouTube Channel </a>
 
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
@@ -28,10 +28,10 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 
 ## Welcome
 Hello Baku. The Open Web Application Security Project (OWASP) is a non-profit organization working to improve software security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region- Baku.
-
+<img src="testBaku.jpg" alt="Girl in a jacket" width="auto" height="600">
 ## Speakers & Supporters
 All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application and software security.
-Please contact <a href="azar.alili@owasp.org">Azar Alili<\a> if you would like to present at one of our chapter meetings, or if you have some virtual resources to donate (e.g., CTF ranges, online training, etc.).
+Please contact <a href="azar.alili@owasp.org"> Azar Alili </a> if you would like to present at one of our chapter meetings, or if you have some virtual resources to donate (e.g., CTF ranges, online training, etc.).
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
