@@ -129,3 +129,21 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <h2 id="updates-on-social-media-and-mailing-list">Updates on Social Media and Mailing List</h2>
 <p>Please follow OWASP Baku Chapter on <a href="https://twitter.com/OWASPBaku">Twiter</a>/<a href="https://facebook.com/OWASPBaku">Facebook</a>/<a href="https://meetup.com/OWASP-Baku">MeetUp</a>/<a href="https://owaspbaku.eventbrite.com">EventBrite</a>/<a href="https://www.linkedin.com/company/owaspbaku">LinkedIN</a> and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/baku-chapter/join">sign up to our mailing list</a> to be notified about the upcoming OWASP Baku Chapter events.</p>
 
+<h3 id="baku-information">Baku Information</h3>
+<ul>
+  <li><a href="https://www.owasp.org/index.php/Membership">Become a Member</a></li>
+  <li><a href="https://groups.google.com/a/owasp.org/forum/#!forum/baku-chapter">Join Our Mailing List</a></li>
+  <li><a href="https://owasp.org/donate">Local Chapter Support</a></li>
+  <li><a href="https://owasp.org/www-policy/legal/speaker-agreement">Speaker Agreement</a></li>
+  <li><a href="https://owasp.org/www-policy/operational/conferences-events.html">Code of Conduct</a></li>
+</ul>
+
+<h3 id="social-links">Social Links</h3>
+<ul>
+  <li><a href="https://www.facebook.com/OWASPLondon">Facebook</a></li>
+  <li><a href="https://twitter.com/owasplondon">Twitter</a></li>
+  <li><a href="https://www.linkedin.com/company/owasplondon">Linkedin</a></li>
+  <li><a href="https://www.meetup.com/OWASP-London/">Meetup.com</a></li>
+  <li><a href="https://www.eventbrite.co.uk/o/owasp-london-chapter-9790101329">EventBrite</a></li>
+  <li><a href="https://www.youtube.com/channel/UC-CfoAEpdpkB_jYrydYrqSA">YouTube</a></li>
+</ul>
