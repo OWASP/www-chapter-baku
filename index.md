@@ -28,7 +28,7 @@ OWASP is a non-profit organization to improve apllication security. All of our p
 
 <p>OWASP Baku Chapter meetings are posted on our MeetUp Page:</p>
 
-<p>Please visit <a href="https://www.eventbrite.com/e/owasp-baku-meetup-tickets-495022534727">http://www.meetup.com/OWASP-Baku</a> OWASP Baku MeetUp site for Baku Chapter event information.</p>
+<p>Please visit <a href="https://www.eventbrite.com/e/owasp-baku-meetup-tickets-495022534727"> our next meeting </a>. </p>
 
 
 <h2 id="video-recordings-of-past-events">Video Recordings of Past Events</h2>
