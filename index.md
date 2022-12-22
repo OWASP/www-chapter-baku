@@ -9,20 +9,18 @@ meetup-group:
 ---
 
 <div style='color:red;'>
-
-Welcome to the OWASP Baku chapter homepage. The chapter board is <a href="azar.alili@owasp.org"> Azar Alili </a> , <a href="https://www.linkedin.com/in/sabuhi-safarov-5958a5a2/)"> Sabuhi Safarov </a> and <a href="https://www.linkedin.com/in/sakhavat-suleymanli-cybersecurity-itaudit-information-security-s%C9%99xav%C9%99t-s%C3%BCleymanl%C4%B1/)"> Sakhavat Suleymanli </a>. Follow chapter news on <a href="fb.com"> Facebook </a> | <a href="twitter.com"> Twitter </a> | <a href="meetup.com"> Meetup.com  </a>| <a href="eventbrite.com"> EventBrite </a> | <a href="linkedin.com"> LinkedIN . </a> Watch recordings of past talks on our <a href="youtu.be"> YouTube Channel </a>
-
-
+  
 ## Welcome
-Hello Baku. The Open Web Application Security Project (OWASP) is a non-profit organization working to improve software security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region- Baku.
+  
+  Welcome to the OWASP Baku chapter homepage. The chapter board is <a href="azar.alili@owasp.org"> Azar Alili </a> , <a href="https://www.linkedin.com/in/sabuhi-safarov-5958a5a2/)"> Sabuhi Safarov </a> and <a href="https://www.linkedin.com/in/sakhavat-suleymanli-cybersecurity-itaudit-information-security-s%C9%99xav%C9%99t-s%C3%BCleymanl%C4%B1/)"> Sakhavat Suleymanli </a>. Follow chapter news on <a href="fb.com"> Facebook </a> | <a href="twitter.com"> Twitter </a> | <a href="meetup.com"> Meetup.com  </a>| <a href="eventbrite.com"> EventBrite </a> | <a href="linkedin.com"> LinkedIN . </a> Watch recordings of past talks on our <a href="youtu.be"> YouTube Channel </a>
+
+The Open Web Application Security Project (OWASP) is a non-profit organization working to improve software security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region- Baku.
 <img src="assets/images/testBaku.jpg" alt="Girl in a jacket" width="auto" height="600">
   
   
 ## Chapter Supporters
 The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
-<img src="testBaku.jpg" alt="Girl in a jacket" width="auto" height="600">
-  
-  <table cellpadding="15" cellspacing="0">
+<table cellpadding="15" cellspacing="0">
 <tr>
 <td>
 
@@ -108,59 +106,71 @@ The following are the list of OWASP Corporate Members who have generously aligne
   
 </div>
 
-## Speakers & Supporters
-All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application and software security.
-Please contact <a href="azar.alili@owasp.org"> Azar Alili </a> if you would like to present at one of our chapter meetings, or if you have some virtual resources to donate (e.g., CTF ranges, online training, etc.).
+## Speaking at OWASP Baku Chapter Events
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+<h4>Call For Speakers</h4>
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Baku Chapter events - please review and agree with the <a href="https://owasp.org/www-policy/legal/speaker-agreement"> OWASP Speaker Agreement </a> and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:</p>
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+<p><code class="language-plaintext highlighter-rouge">owaspbaku (at) owasp.org</code></p>
 
-<!-- You should delete this comment
+<h2 id="next-meetingevents">Next Meeting/Event(s)</h2>
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+<p>OWASP Baku Chapter meetings are posted on our MeetUp Page:</p>
 
-{front matter for this file}
+<p>Please visit <a href="https://www.meetup.com/OWASP-Baku">http://www.meetup.com/OWASP-London</a> OWASP Baku MeetUp site for Baku Chapter event information.</p>
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+<!-- this include file requires an include parameter group -->
+<div id="ch_events_div">
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    $(function() {
+      // stuff here to load chapter events
+      var groupname = 'OWASP-Baku';
+      var past = 'false';
+      
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+      var status = 'upcoming';
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+      if(past == 'true')
+        status = 'past';
+      
+        $.get("https://owaspadmin.azurewebsites.net/api/GetMeetupEvents?code=7OIbdfrvam1q5dbaZyN5JTZodrtWRHtnzBTtRB8ed1HT2Stax0iLNw==&group=" + groupname + "&status=" + status, function(data) {
+        var edata = JSON.parse(data);
+        if('data' in edata && 'proNetworkByUrlname' in edata['data'] && 'eventsSearch' in edata['data']['proNetworkByUrlname'] && 'edges' in edata['data']['proNetworkByUrlname']['eventsSearch'] )
+        {
+          var events = edata['data']['proNetworkByUrlname']['eventsSearch']['edges']
+          var dstr = "";
+          if(events.length > 0)
+          {
+            for(let i in events)
+            {
+              dstr += "<hr>";
+              dstr += "<section style='background-color:#f3f4f6;'>";
+              dstr += "<strong>Event: " + events[i]['node']['title'] + "</strong><br>";
+              dstr += "<strong>Date: " + (events[i]['node']['dateTime']).substring(0,10) + "</strong><br>";
+              dstr += "<strong>Time: " + (events[i]['node']['dateTime']).substring(11, 16) + " (" + events[i]['node']['timezone'] + ") </strong><br>";
+              dstr += "<strong>Link: <a href='" + events[i]['node']['eventUrl'] + "'>" + events[i]['node']['eventUrl'] + "</a></strong><br>";
+              dstr += "<strong>Description:</strong></section>" + events[i]['node']['description'];              
+            }
+            $("#ch_events_div").html(dstr);            
+          }
+          else{
+            dstr = "<hr><i>No events currently scheduled</i>"
+            $("#ch_events_div").html(dstr);
+          }
+        }      
+      });
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+    }); 
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+  </script>
 
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
+<h2 id="video-recordings-of-past-events">Video Recordings of Past Events</h2>
+<p>You can watch the recordings of talks presented at OWASP Baku events on our YouTube channel: https://www.youtube.com/OWASPBaku</p>
 
-```
-{info.md}
+<p>Please <a href="https://www.youtube.com/OWASPBaku?sub_confirmation=1">SUBSCRIBE</a> to our YouTube channel to get notified when new videos get published.</p>
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+<h2 id="updates-on-social-media-and-mailing-list">Updates on Social Media and Mailing List</h2>
+<p>Please follow OWASP Baku Chapter on <a href="https://twitter.com/OWASPBaku">Twiter</a>/<a href="https://facebook.com/OWASPBaku">Facebook</a>/<a href="https://meetup.com/OWASP-Baku">MeetUp</a>/<a href="https://owaspbaku.eventbrite.com">EventBrite</a>/<a href="https://www.linkedin.com/company/owaspbaku">LinkedIN</a> and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/baku-chapter/join">sign up to our mailing list</a> to be notified about the upcoming OWASP Baku Chapter events.</p>
 
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
