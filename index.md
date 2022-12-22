@@ -27,10 +27,11 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Hello Baku. The Open Web Application Security Project (OWASP) is a non-profit organization working to improve software security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region- Baku.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Speakers & Supporters
+All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application and software security.
+Please contact Azar Alili if you would like to present at one of our chapter meetings, or if you have some virtual resources to donate (e.g., CTF ranges, online training, etc.).
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
