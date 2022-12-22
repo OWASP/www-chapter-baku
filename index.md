@@ -118,53 +118,8 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 <p>OWASP Baku Chapter meetings are posted on our MeetUp Page:</p>
 
-<p>Please visit <a href="https://www.meetup.com/OWASP-Baku">http://www.meetup.com/OWASP-London</a> OWASP Baku MeetUp site for Baku Chapter event information.</p>
+<p>Please visit <a href="https://www.meetup.com/OWASP-Baku">http://www.meetup.com/OWASP-Baku</a> OWASP Baku MeetUp site for Baku Chapter event information.</p>
 
-<!-- this include file requires an include parameter group -->
-<div id="ch_events_div">
-</div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
-    $(function() {
-      // stuff here to load chapter events
-      var groupname = 'OWASP-Baku';
-      var past = 'false';
-      
-
-      var status = 'upcoming';
-
-      if(past == 'true')
-        status = 'past';
-      
-        $.get("https://owaspadmin.azurewebsites.net/api/GetMeetupEvents?code=7OIbdfrvam1q5dbaZyN5JTZodrtWRHtnzBTtRB8ed1HT2Stax0iLNw==&group=" + groupname + "&status=" + status, function(data) {
-        var edata = JSON.parse(data);
-        if('data' in edata && 'proNetworkByUrlname' in edata['data'] && 'eventsSearch' in edata['data']['proNetworkByUrlname'] && 'edges' in edata['data']['proNetworkByUrlname']['eventsSearch'] )
-        {
-          var events = edata['data']['proNetworkByUrlname']['eventsSearch']['edges']
-          var dstr = "";
-          if(events.length > 0)
-          {
-            for(let i in events)
-            {
-              dstr += "<hr>";
-              dstr += "<section style='background-color:#f3f4f6;'>";
-              dstr += "<strong>Event: " + events[i]['node']['title'] + "</strong><br>";
-              dstr += "<strong>Date: " + (events[i]['node']['dateTime']).substring(0,10) + "</strong><br>";
-              dstr += "<strong>Time: " + (events[i]['node']['dateTime']).substring(11, 16) + " (" + events[i]['node']['timezone'] + ") </strong><br>";
-              dstr += "<strong>Link: <a href='" + events[i]['node']['eventUrl'] + "'>" + events[i]['node']['eventUrl'] + "</a></strong><br>";
-              dstr += "<strong>Description:</strong></section>" + events[i]['node']['description'];              
-            }
-            $("#ch_events_div").html(dstr);            
-          }
-          else{
-            dstr = "<hr><i>No events currently scheduled</i>"
-            $("#ch_events_div").html(dstr);
-          }
-        }      
-      });
-
-    }); 
-
-  </script>
 
 <h2 id="video-recordings-of-past-events">Video Recordings of Past Events</h2>
 <p>You can watch the recordings of talks presented at OWASP Baku events on our YouTube channel: https://www.youtube.com/OWASPBaku</p>
