@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Baku
-tags: example-tag
+tags: owasp, baku, azerbaijan
 region: Asia
 meetup-group: owasp-baku-chapter
 
@@ -18,9 +18,9 @@ OWASP is a non-profit organization to improve apllication security. All of our p
  
 </div>
 
-## Speaking at OWASP Baku Chapter Events
+## Speaking at OWASP Baku Chapter Events / OWASP Baku Chapter Tədbirlərində çıxış
 
-<h4>Call For Speakers</h4>
+<h4>Call For Speakers / Çıxışlar üçün Çağırış</h4>
 
 <p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Baku Chapter events - please review and agree with the <a href="https://owasp.org/www-policy/legal/speaker-agreement"> OWASP Speaker Agreement </a> and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via <a href="mailto:azar.alili@owasp.org"> e-mail </a> :</p>
 
