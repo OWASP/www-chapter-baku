@@ -12,7 +12,7 @@ meetup-group: owasp-baku-chapter
 <img src="assets/images/azar alili sakhavat suleymanli.png" alt="Girl in a jacket" width="auto" height="auto"> <br>
   
 Welcome to OWASP-Baku Chapter. The chapter board are <a href="mailto:azar.alili@owasp.org"> Azar Alili </a> , <a href="mailto:sabuhi.safarov@owasp.org"> Sabuhi Safarov </a>, <a href="mailto:sakhavat.suleymanli@owasp.org"> Sakhavat Suleymanli </a>, <a href="mailto:dadash.guliyev@owasp.org"> Dadash Guliyev </a> and <a href="mailto:rashad.aliyev1@owasp.org">Rashad Aliyev</a>. <br> 
-Follow chapter news on <a href="https://twitter.com/OWASPBAKU"> Twitter </a> | <a href="linkedin.com"> LinkedIN . </a> Watch recordings of past talks on our <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q"> YouTube Channel </a>
+Follow chapter news on <a href="https://twitter.com/OWASPBAKU"> Twitter </a> | <a href="https://www.linkedin.com/company/owasp-baku/about/?viewAsMember=true"> LinkedIN . </a> Watch recordings of past talks on our <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q"> YouTube Channel </a>
 
 OWASP is a non-profit organization to improve apllication security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region-Baku.
  
@@ -34,7 +34,7 @@ OWASP is a non-profit organization to improve apllication security. All of our p
 <h2 id="video-recordings-of-past-events">Video Recordings of Past Events</h2>
 <p>You can watch the recordings of talks presented at OWASP Baku events on our YouTube channel: <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q"> OWASPBaku </a> </p>
 
-<p>Please <a href="https://www.youtube.com/OWASPBaku?sub_confirmation=1">SUBSCRIBE</a> to our YouTube channel to get notified when new videos get published.</p>
+<p>Please <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q">SUBSCRIBE</a> to our YouTube channel to get notified when new videos get published.</p>
 
 <h2 id="updates-on-social-media-and-mailing-list">Updates on Social Media and Mailing List</h2>
 <p>Please follow OWASP Baku Chapter on our social accounts </p>
