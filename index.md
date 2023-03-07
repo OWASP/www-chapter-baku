@@ -52,6 +52,6 @@ OWASP is a non-profit organization to improve apllication security. All of our p
 <ul>
   <li><a href="https://twitter.com/OWASPBAKU">Twitter</a></li>
   <li><a href="https://www.linkedin.com/company/owasp-baku">Linkedin</a></li>
-  <li><a href="https://www.eventbrite.com/e/owasp-baku-meetup-tickets-495022534727"> Meetup</a></li>
+  <li><a href="https://www.meetup.com/owasp-baku-chapter/"> Meetup</a></li>
   <li><a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q">YouTube</a></li>
 </ul>
