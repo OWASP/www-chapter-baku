@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Baku
 tags: owasp, baku, azerbaijan
 region: Asia
+country: Azerbaijan
 meetup-group: owasp-baku-chapter
 
 ---
