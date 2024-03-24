@@ -46,7 +46,7 @@ OWASP is a non-profit organization to improve apllication security. All of our p
   <li><a href="https://groups.google.com/all-groups">Join Our Mailing List</a></li>
   <li><a href="https://owasp.org/donate">Local Chapter Support</a></li>
   <li><a href="https://owasp.org/www-policy/legal/speaker-agreement">Speaker Agreement</a></li>
-  <li><a href="[https://owasp.org/www-policy/legal/speaker-agreement](https://github.com/OWASP/www-chapter-baku/blob/main/owasp_baku_bylaw.md)">OWASP Baku Chapter Bylaw</a></li>
+  <li><a href="https://github.com/OWASP/www-chapter-baku/blob/main/owasp_baku_bylaw.md">OWASP Baku Chapter Bylaw</a></li>
   <li><a href="https://owasp.org/www-policy/operational/conferences-events.html">Code of Conduct</a></li>
 </ul>
 
