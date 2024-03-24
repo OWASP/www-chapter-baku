@@ -28,9 +28,7 @@ Other founding members such as Dadash Guliyev, who holds certifications like OSE
 
 <h2 id="next-meetingevents">Next Meeting/Event(s)</h2>
 
-<p>OWASP Baku Chapter meetings are posted on our MeetUp Page:</p>
-
-<p>Please visit <a href="https://www.meetup.com/owasp-baku-chapter/"> our next meeting </a>. </p>
+<p>OWASP Baku Chapter meetings are posted on our MeetUp Page:</p> <p>Please visit <a href="https://www.meetup.com/owasp-baku-chapter/"> our next meeting </a>. </p>
 
 
 <h2 id="video-recordings-of-past-events">Video Recordings of Past Events</h2>
