@@ -20,7 +20,6 @@ The OWASP Baku Chapter, led by founding member and cybersecurity expert Azar Ali
 Other founding members such as Dadash Guliyev, who holds certifications like OSEP, OSWE, and OSCP, and Sabuhi Safarov, an OSCP-certified professional, also play key leadership roles within the community. They contribute to the community's innovative security support efforts, raising awareness about cybersecurity's significance and fostering a culture of proactive security measures. 
 
 </div>
-## Speaking at OWASP Baku Chapter Events
 
 <h4>Call For Speakers</h4>
 
