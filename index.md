@@ -13,7 +13,7 @@ meetup-group: owasp-baku-chapter
 <img src="assets/images/azar alili sakhavat suleymanli.png" alt="Girl in a jacket" width="auto" height="auto"> <br>
   
 Welcome to OWASP-Baku Chapter. The chapter board are <a href="mailto:azar.alili@owasp.org"> Azar Alili </a> , <a href="mailto:sabuhi.safarov@owasp.org"> Sabuhi Safarov </a>, <a href="mailto:sakhavat.suleymanli@owasp.org"> Sakhavat Suleymanli </a>, <a href="mailto:dadash.guliyev@owasp.org"> Dadash Guliyev </a>, <a href="mailto:alizade.cavid@gmail.com"> Javid Alizade </a>. <br> 
-Follow chapter news on <a href="https://twitter.com/OWASPBAKU"> Twitter </a> | <a href="https://www.linkedin.com/company/owasp-baku/about/?viewAsMember=true"> LinkedIN . </a> 
+Follow chapter news on <a href="https://twitter.com/OWASPBAKU"> Twitter </a> | <a href="https://www.linkedin.com/company/owasp-baku/about/?viewAsMember=true"> LinkedIN . </a> <br>
 Watch recordings of past talks on our <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q"> YouTube Channel </a>
 
 OWASP is a non-profit organization to improve apllication security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region-Baku.
