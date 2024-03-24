@@ -12,7 +12,7 @@ meetup-group: owasp-baku-chapter
 <div style='color:black;'>
 <img src="assets/images/azar alili OWASP Baku Chapter.png" alt="Girl in a jacket" width="auto" height="auto"> <br>
   
-Welcome to OWASP-Baku Chapter. The chapter board are <a href="https://www.linkedin.com/in/azaralili/"> Azar Alili </a> , <a href="mailto:sabuhi.safarov@owasp.org"> Sabuhi Safarov </a>, <a href="mailto:sakhavat.suleymanli@owasp.org"> Sakhavat Suleymanli </a>, <a href="mailto:dadash.guliyev@owasp.org"> Dadash Guliyev </a>, <a href="mailto:alizade.cavid@gmail.com"> Javid Alizade </a>. <br> 
+Welcome to OWASP-Baku Chapter. The chapter board are <a href="https://www.linkedin.com/in/azaralili/"> Azar Alili </a> , <a href="mailto:sabuhi.safarov@owasp.org"> Sabuhi Safarov </a>, <a href="mailto:sakhavat.suleymanli@owasp.org"> Sakhavat Suleymanli </a>, <a href="mailto:dadash.guliyev@owasp.org"> Dadash Guliyev </a>, <a href="mailto:alizade.cavid@gmail.com"> Javid Alizade</a>. <br> 
 Follow chapter news on <a href="https://twitter.com/OWASPBAKU"> Twitter </a> | <a href="https://www.linkedin.com/company/owasp-baku/about/?viewAsMember=true"> LinkedIN . </a> <br>
 Watch recordings of past talks on our <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q"> YouTube Channel </a> <br>
 OWASP is a non-profit organization to improve apllication security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region-Baku. <br>
@@ -23,7 +23,7 @@ Other founding members such as Dadash Guliyev, who holds certifications like OSE
 
 <h4>Call For Speakers</h4>
 
-<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Baku Chapter events - please review and agree with the <a href="https://owasp.org/www-policy/legal/speaker-agreement"> OWASP Speaker Agreement </a> and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via <a href="mailto:azar.alili@owasp.org"> e-mail </a> :</p>
+<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Baku Chapter events - please review and agree with the <a href="https://owasp.org/www-policy/legal/speaker-agreement"> OWASP Speaker Agreement </a> and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via <a href="mailto:azar.alili@owasp.org"> e-mail </a>:</p>
 
 <h2 id="next-meetingevents">Next Meeting/Event(s)</h2>
 
