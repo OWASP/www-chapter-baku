@@ -24,7 +24,7 @@ Other founding members such as Dadash Guliyev, who holds certifications like OSE
 
 <h4>Call For Speakers</h4>
 
-<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Baku Chapter events - please review and agree with the <a href="https://owasp.org/www-policy/legal/speaker-agreement"> OWASP Speaker Agreement </a> and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via <a href="mailto:azar.alili@owasp.org"> e-mail </a>:</p>
+<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Baku Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via <a href="mailto:azar.alili@owasp.org"> e-mail </a>:</p>
 
 <h2 id="next-meetingevents">Next Meeting/Event(s)</h2>
 
