@@ -10,7 +10,7 @@ meetup-group: owasp-baku-chapter
 ---
 
 <div style='color:black;'>
-<img src="assets/images/azar alili OWASP Baku Chapter.png" alt="Girl in a jacket" width="auto" height="auto"> <br>
+<img src="assets/images/OWASP_Baku_Chapter.png" alt="OWASP Baku Chapter banner" width="auto" height="auto"> <br>
 <br>
 Welcome to OWASP-Baku Chapter. The chapter board are <a href="https://www.linkedin.com/in/azaralili/"> Azar Alili </a>, <a href="mailto:dadash.guliyev@owasp.org"> Dadash Guliyev</a>. <br> 
 
