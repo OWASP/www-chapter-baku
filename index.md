@@ -14,7 +14,7 @@ meetup-group: owasp-baku-chapter
 <br>
 Welcome to OWASP-Baku Chapter. The chapter board are Azar Alili, Dadash Guliyev, Hajiahmad Ahmadzada and Orhan Jan, <br> 
 
-Follow chapter news on <a href="https://twitter.com/OWASPBAKU"> Twitter </a> | <a href="https://www.linkedin.com/company/owasp-baku/about/?viewAsMember=true"> LinkedIN. </a>Watch recordings of past talks on our <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q"> YouTube Channel.</a> <br>
+Follow chapter news on <a href="https://twitter.com/OWASPBAKU"> Twitter </a> | <a href="https://www.linkedin.com/company/owasp-baku/about/?viewAsMember=true"> LinkedIN.
 
 OWASP is a non-profit organization to improve apllication security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region-Baku. <br>
 The OWASP Baku Chapter, led by founding member and cybersecurity experts, has been instrumental in shaping the landscape of application security in the region. Through its initiatives and collaborations, the chapter has significantly enhanced awareness and knowledge of cybersecurity practices among developers, businesses, and organizations. our crucial contribution to the chapter's activities, including organizing workshops, seminars, and conferences, has empowered professionals to adopt best practices in application security. The chapter's efforts have not only strengthened cybersecurity measures locally but have also had a ripple effect across Eastern Europe, the Middle East, and Central Asia, highlighting its impactful influence in advancing cybersecurity standards and strategies in the region. <br>
