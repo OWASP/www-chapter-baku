@@ -32,11 +32,10 @@ Other founding members who holds certifications like OSEP, OSWE, OCED, OSCE3 and
 
 
 <h2 id="video-recordings-of-past-events">Video Recordings of Past Events</h2>
-<p>You can watch the recordings of talks presented at OWASP Baku events on our YouTube channel: <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q"> OWASPBaku </a> </p>
-
-<p>Please <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q">SUBSCRIBE</a> to our YouTube channel to get notified when new videos get published.</p>
+<p>You can watch the recordings of talks presented at OWASP Baku events on our YouTube channel.
 
 <h2 id="updates-on-social-media-and-mailing-list">Updates on Social Media and Mailing List</h2>
+
 <p>Please follow OWASP Baku Chapter on our social accounts </p>
 
 <h3 id="baku-information">Baku Information</h3>
@@ -54,5 +53,4 @@ Other founding members who holds certifications like OSEP, OSWE, OCED, OSCE3 and
   <li><a href="https://twitter.com/OWASPBAKU">Twitter</a></li>
   <li><a href="https://www.linkedin.com/company/owasp-baku">Linkedin</a></li>
   <li><a href="https://www.meetup.com/owasp-baku-chapter/"> Meetup</a></li>
-  <li><a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q">YouTube</a></li>
 </ul>
