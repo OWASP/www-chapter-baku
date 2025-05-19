@@ -12,7 +12,7 @@ meetup-group: owasp-baku-chapter
 <div style='color:black;'>
 <img src="assets/images/OWASP_Baku_Chapter.png" alt="OWASP Baku Chapter banner" width="auto" height="auto"> <br>
 <br>
-Welcome to OWASP-Baku Chapter. The chapter board are Dadash Guliyev, Hajiahmad Ahmadzada, Orhan Jan and Asif Alili </a>, <br> 
+Welcome to OWASP-Baku Chapter. The chapter board are Azar Alili, Dadash Guliyev, Hajiahmad Ahmadzada and Orhan Jan, <br> 
 
 Follow chapter news on <a href="https://twitter.com/OWASPBAKU"> Twitter </a> | <a href="https://www.linkedin.com/company/owasp-baku/about/?viewAsMember=true"> LinkedIN. </a>Watch recordings of past talks on our <a href="https://www.youtube.com/channel/UC3ROpwrfxWfpTKPlymmqa7Q"> YouTube Channel.</a> <br>
 
