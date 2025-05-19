@@ -24,12 +24,11 @@ Other founding members who holds certifications like OSEP, OSWE, OCED, OSCE3 and
 
 <h4>Call For Speakers</h4>
 
-<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Baku Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via <a>href="mailto:dadash.guliyev@owasp.org"> e-mail</a>:</p>
+<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Baku Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via <a href="mailto:dadash.guliyev@owasp.org"> e-mail </a> :</p>
 
 <h2 id="next-meetingevents">Next Meeting/Event(s)</h2>
 
 <p>OWASP Baku Chapter meetings are posted on our MeetUp Page:</p> <p>Please visit <a href="https://www.meetup.com/owasp-baku-chapter/"> our next meeting </a>. </p>
-
 
 <h2 id="video-recordings-of-past-events">Video Recordings of Past Events</h2>
 <p>You can watch the recordings of talks presented at OWASP Baku events on our YouTube channel.
