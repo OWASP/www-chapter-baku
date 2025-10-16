@@ -1,0 +1,29 @@
+leaders:
+  - name: Azar Alili
+    email: azar.alili@owasp.org
+    github: azaralili
+  - name: Asif Alili
+    email: asif.alili@owasp.org
+  - name: Dadash Guliyev
+    email: dadash.guliyev@owasp.org
+  - name: Hajiahmad Ahmadzada
+    email: hajiahmad.ahmadzada@owasp.org
+    github: m3t3kh4n
+location:
+  country: Azerbaijan
+  country_code: AZ
+  region: Absheron
+  city: Baku
+  latitude: 40.3755885
+  longitude: 49.8328009
+meetup_group: owasp-baku-chapter
+name: OWASP Baku
+repositories:
+  - name: www-chapter-baku
+    url: https://github.com/OWASP/www-chapter-baku
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp
+  - baku
+  - azerbaijan
+website: https://owasp.org/www-chapter-baku
